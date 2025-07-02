@@ -13,9 +13,9 @@ By the end, learners will be able to design, execute, and refine AI-augmented so
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Decomposing and planning an augmented workflow](./microlesson-01/README.md) | ~20 min | Break a complex goal into GenAI-compatible subtasks and design a clear, multi-step prompt workflow. |
+| [Decomposing and planning an augmented workflow](./microlesson-01/README.md) | ~30 min | Break a complex goal into GenAI-compatible subtasks and design a clear, multi-step prompt workflow. |
 | [Testing and troubleshooting your GenAI workflow](./microlesson-02/README.md) | ~20 min | Execute your workflow, identify breakdowns, and analyze how LLM behavior affects workflow success. |
-| [Reflection and knowledge check](./microlesson-03/README.md) | ~20 min | Reflect on GenAI strengths and limits, and synthesize key takeaways for real-world use. |
+| [Reflection and knowledge check](./microlesson-03/README.md) | ~10 min | Reflect on GenAI strengths and limits, and synthesize key takeaways for real-world use. |
 | **Total content**                                   | 60 min | Design, execute, and evaluate GenAI workflows in real-world data scenarios. |
 
 ### Prerequisites
